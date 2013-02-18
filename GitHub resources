@@ -1,1 +1,5 @@
 http://try.github.com/levels/1/challenges/1
+
+This is an interactive, short guide to the basic features of Git and GitHub. Git is the programme, and GitHub a website to store and retrieve repositories (this means that we'll need to learn both).
+
+We'll also have to install Git on our computers, since it isn't web-based but rather ditributed.
